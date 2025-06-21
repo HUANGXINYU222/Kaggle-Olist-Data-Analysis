@@ -1,5 +1,4 @@
 # Kaggle-Olist-Data-Analysis
-Kaggle Olist Data Analysis
 This project focuses on performing data analysis and building machine learning models on the Kaggle Olist dataset.This project was completed as a group assignment for the Masterclass module in the MSc Business Analytics program at Queen Mary University of London (QMUL).
 Data Cleaning: Cleaned and preprocessed the raw data to handle missing values, outliers, and categorical variables.
 Exploratory Data Analysis (EDA): Performed in-depth data exploration to understand patterns, distributions, and relationships in the data.
